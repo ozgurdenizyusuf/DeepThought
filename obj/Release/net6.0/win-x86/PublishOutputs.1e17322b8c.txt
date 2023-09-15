@@ -1,0 +1,2 @@
+C:\Users\Yusuf\Desktop\Programming\GitHub\DeepThought\bin\Release\net6.0\publish\win-x86\DeepThought.pdb
+C:\Users\Yusuf\Desktop\Programming\GitHub\DeepThought\bin\Release\net6.0\publish\win-x86\DeepThought.exe

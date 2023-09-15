@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Yusuf\\source\\repos\\DeepThought\\DeepThought.csproj": {}
+    "C:\\Users\\Yusuf\\Desktop\\Programming\\GitHub\\DeepThought\\DeepThought.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Yusuf\\source\\repos\\DeepThought\\DeepThought.csproj": {
+    "C:\\Users\\Yusuf\\Desktop\\Programming\\GitHub\\DeepThought\\DeepThought.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Yusuf\\source\\repos\\DeepThought\\DeepThought.csproj",
+        "projectUniqueName": "C:\\Users\\Yusuf\\Desktop\\Programming\\GitHub\\DeepThought\\DeepThought.csproj",
         "projectName": "DeepThought",
-        "projectPath": "C:\\Users\\Yusuf\\source\\repos\\DeepThought\\DeepThought.csproj",
+        "projectPath": "C:\\Users\\Yusuf\\Desktop\\Programming\\GitHub\\DeepThought\\DeepThought.csproj",
         "packagesPath": "C:\\Users\\Yusuf\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Yusuf\\source\\repos\\DeepThought\\obj\\",
+        "outputPath": "C:\\Users\\Yusuf\\Desktop\\Programming\\GitHub\\DeepThought\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
