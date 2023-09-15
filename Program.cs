@@ -4,8 +4,8 @@
 Console.WriteLine("Ask me a question:");
 while (true)
 {
-    string soru = Console.ReadLine();
-    string cevap = "The answer is: 42";
-    Console.WriteLine(cevap);
+    string question = Console.ReadLine();
+    string answer = "The answer is: 42";
+    Console.WriteLine(answer);
     Console.WriteLine("Ask me another question:");
 }
